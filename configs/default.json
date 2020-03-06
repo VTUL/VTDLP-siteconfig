@@ -1,0 +1,49 @@
+{
+  "siteId": "vtdlp",
+  "siteTitle": "VTDLP",
+  "siteName": "Virginia Tech Digital Library Platform",
+  "siteNavLinks": [
+    {
+      "text": "Home",
+      "url": "/"
+    },
+    {
+      "text": "About",
+      "url": "/about"
+    },
+    {
+      "text": "Permission Page",
+      "url": "/terms"
+    },
+    {
+      "text": "Browse Collections",
+      "url": "/collections"
+    },
+    {
+      "text": "Search Items",
+      "url": "/search"
+    }
+  ],
+  "homePage": {
+    "carousel": [
+      {
+        "src": "images/carousel/2_Ms2008_089_B001_F007_001_SecondSt_Ms_001_r.jpg",
+        "altText": "International Archive of Women in Architecture",
+        "captionHeader": "International Archive of Women in Architecture",
+        "captionText": ""
+      }
+    ]
+    ,"statement":"<div><h1>Virginia Tech Digital Library Platform</h1><p>Welcome to VTDLP</p></div>"
+  },
+  "contact": [
+    {
+      "title": "Assoc Dir. Digital Libraries",
+      "email": "jjt@vt.edu",
+      "group": "Digital Library Development",
+      "department": "University Libraries (0434)",
+      "streetAddress": "560 Drillfield Drive",
+      "cityStateZip": "Blacksburg, VA 24061",
+      "phone": "(540)231-6308"
+    }
+  ]
+}

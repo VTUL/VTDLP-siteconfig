@@ -1,0 +1,133 @@
+{
+  "siteId": "iawa",
+  "siteTitle": "IAWA",
+  "siteName": "International Archive of Women in Architecture",
+  "siteNavLinks": [
+    {
+      "text": "Home",
+      "url": "/"
+    },
+    {
+      "text": "About",
+      "url": "/about"
+    },
+    {
+      "text": "Permission Page",
+      "url": "/terms"
+    },
+    {
+      "text": "Browse Collections",
+      "url": "/collections"
+    },
+    {
+      "text": "Search Items",
+      "url": "/search"
+    }
+  ],
+  "homePage": {
+    "carousel": [
+      {
+        "src": "images/carousel/1_iawa_logo.jpg",
+        "altText": "Welcome to the IAWA Online Collections",
+        "captionHeader": "Welcome to the IAWA Online Collections",
+        "captionText":
+          "Browse through selected items from the personal collections of 20th century women architects"
+      },
+      {
+        "src": "images/carousel/2_Ms2008_089_B001_F007_001_SecondSt_Ms_001_r.jpg",
+        "altText": "Alexander",
+        "captionHeader": "Alexander",
+        "captionText": ""
+      },
+      {
+        "src": "images/carousel/3_Church_r.jpg",
+        "altText": "Melita Rodeck",
+        "captionHeader": "Melita Rodeck",
+        "captionText": ""
+      },
+      {
+        "src": "images/carousel/4_Rodeck_Vienna_r.jpg",
+        "altText": "Melita Rodeck",
+        "captionHeader": "Melita Rodeck",
+        "captionText": ""
+      },
+      {
+        "src": "images/carousel/5_rupp.jpg",
+        "altText": "Sigrid Rupp",
+        "captionHeader": "Sigrid Rupp",
+        "captionText": ""
+      },
+      {
+        "src": "images/carousel/6_Ms2013_023_F003_019_Austellungbau_Dr_001_r.jpg",
+        "altText": "Dorothee Stelzer King",
+        "captionHeader": "Dorothee Stelzer King",
+        "captionText": ""
+      },
+      {
+        "src": "images/carousel/7_Ms1991_046_MeditationGroup_B094_015_copy_25p_r.jpg",
+        "altText": "Zelma Wilson",
+        "captionHeader": "Zelma Wilson",
+        "captionText": ""
+      },
+      {
+        "src": "images/carousel/8_Ms1991_046_MeditationGroup_B094_002_25p_r.jpg",
+        "altText": "Zelma Wilson",
+        "captionHeader": "Zelma Wilson",
+        "captionText": ""
+      },
+      {
+        "src": "images/carousel/9_Ms1998_022_B001_F002_001_Pro_Ms_031_r.jpg",
+        "altText": "Jean Linden Young",
+        "captionHeader": "Jean Linden Young",
+        "captionText": ""
+      },
+      {
+        "src": "images/carousel/10_Ms1990_016_F026_014_Garvey_Dr_007_25p_r.jpg",
+        "altText": "Susana Torre",
+        "captionHeader": "Susana Torre",
+        "captionText": ""
+      },
+      {
+        "src": "images/carousel/11_Ms2013_090_B005_015_Cunningham_Ph_001_copy_r.jpg",
+        "altText": "Marie Louise Laleyan",
+        "captionHeader": "Marie Louise Laleyan",
+        "captionText": ""
+      },
+      {
+        "src": "images/carousel/12_00002_50p_r.jpg",
+        "altText": "Eleanore Pettersen",
+        "captionHeader": "Eleanore Pettersen",
+        "captionText": ""
+      },
+      {
+        "src": "images/carousel/13_ArchitectPortraits_r.jpg",
+        "altText": "IAWA Portraits",
+        "captionHeader": "IAWA Portraits",
+        "captionText": "Architect Portraits"
+      }
+    ],
+    "statement": "A visual exhibit of selected items from the International Archive of Women in Architecture, a joint partnership between the College of Architecture and Urban Studies and the University Libraries at Virginia Tech"
+  },
+  "contact": [
+    {
+      "title": "IAWA Archivist",
+      "email": "specref@vt.edu",
+      "group": "Special Collections",
+      "department": "University Libraries (0434)",
+      "streetAddress": "560 Drillfield Drive",
+      "cityStateZip": "Blacksburg, VA 24061",
+      "phone": "(540)231-6308"
+    },
+    {
+      "title": "Board Chair",
+      "email": "ddunay@vt.edu",
+      "group": "IAWA Center",
+      "department": "201 Cowgill Hall (0205)",
+      "streetAddress": "1325 Perry St.",
+      "cityStateZip": "Blacksburg, VA 24061",
+      "phone": "(540)231-5512"
+    }
+  ],
+  "aboutCopy": "<h2>Our History</h2><p>The International Archive of Women in Architecture (IAWA) wasestablished in 1985 as a joint program of the College of Architectureand Urban Studies and the University Libraries at Virginia Tech. Thepurpose of the Archive is to document the history of women'scontributions to the built environment by collecting, preserving, andproviding access to the records of women's architectural organizationsand the professional papers of women architects, landscape architects,designers, architectural historians and critics, and urban planners.</p><p>The IAWA collections have always been open to scholars, students, andpublic researchers around the world. Historically, this meanttraveling to Virginia Tech and visiting the University Libraries’Special Collections Department to see materials in person. Throughthis website, today’s researchers also have access to a growinglibrary of digitized documents and visual materials from the IAWAcollections. This project was made possible in part by funding fromthe Council on Library and Information Resources (CLIR) through its'Digitizing Hidden Collections' program.</p><h2>What We Collect</h2><p>Today, the IAWA documents the legacies of more than 435 individuals,firms, organizations, and exhibits from the 1890s through the presentday. The permanent collections include approximately 2000 cubic feetof documents, photographs and negatives, architectural drawings,sketches, scrapbooks, building models, presentation boards, and othermaterials that capture the creative process. The IAWA also collectsbooks, biographical information, and other published materials as partof its mission to act as a clearinghouse of information about theglobal history of women in architecture.</p><p>Women who are interested in enhancing the historic record ofarchitecture and related design professions should visit the <a href='http://spec.lib.vt.edu/IAWA/donations.html' target='_blank' rel='noopener noreferrer'>Special Collections donations page</a> or contact the <a href='mailto:specref@vt.edu'>IAWA Archivist</a> formore information about donating materials to the IAWA.</p><h2>Learn More</h2><p>Are you starting a new research project? Check out our guide toconducting research in the IAWA collections: <a href='http://guides.lib.vt.edu/iawa/home' target='_blank' rel='noopener noreferrer'>http://guides.lib.vt.edu/iawa/home</a></p><p>To learn more about the IAWA - including the collections not yetavailable online - please visit our main website: <a href='https://spec.lib.vt.edu/IAWA/' target='_blank' rel='noopener noreferrer'>http://spec.lib.vt.edu/iawa</a></p><p>To learn more about the work of the IAWA Center, please visit theCenter's site: <a href='http://archdesign.vt.edu/programs/iawa' target='_blank' rel='noopener noreferrer'>http://archdesign.vt.edu/programs/iawa</a></p>",
+  "termsCopy": "<h1>Conditions Governing Use of Materials from Special Collections forPublication</h1><h3>Downloadable form: <a href='https://digitalsc.lib.vt.edu/files/thumbnails/spec_forms/PubPermission.doc'>doc</a></h3><h3>Copyright Restrictions</h3><p>The copyright law of the United States (Title 17, U.S. Code) governsthe making of photocopies and other reproductions of copyrightedmaterial. Libraries and archives are authorized to furnishreproductions upon request for specified purposes, including privatestudy, scholarship, and research; publication; and public exhibition.This institution reserves the right to refuse to accept an order if,in its judgment, fulfillment of that order would involve violation ofcopyright law.</p><h3>Publication or Public Exhibition Use</h3><p>Permission to use department materials for publication or publicexhibition must be obtained in writing from Special Collections and/orthe copyright holder, if copyright is held by any other person orentity. On this application, please indicate which items you areseeking to publish or exhibit and where you wish to publish or exhibitthem. <u>Special Collections would appreciate receiving copies of anypublications using items from its collections</u>.</p><h3>Document Delivery</h3><p>Scans of documents will be delivered online. Details for retrievalwill be sent upon completion of the request. In the rare instance whenphotocopies are provided, they will be sent via the mail.</p><h3>Availability</h3><p>Please note that the size and condition of materials, quantity ofscans/copies requested, and presence of any restrictions on thematerials will determine whether a request can be fulfilled.</p><h3>Suggested Donations</h3><p>Special Collections does not charge fees for use or reproduction ofmaterials, but we accept donations. Your financial donation will beanonymous and you will receive no further solicitation. Detailsregarding procedures for making such a donation will be provided atthe time of the request.</p>"
+}

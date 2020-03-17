@@ -25,6 +25,10 @@
     }
   ],
   "homePage": {
+    "staticImage": {
+      "src": "https://lh3.googleusercontent.com/proxy/rnUgEV3VeMEySNRJY8pDvL_IouR0yZdtJbasIaiZsG-z-CgeWymnimd-uXLHllkyz6Xn-XzTsFQPfY9SaLpQ3mFb3CCrKWdVskcJjJGdwNy6l7a5RPFzyzFDAFvT121dAfw",
+      "altText": "kittehs"
+    },
     "statement":"<div><p>The Digital Imaging and Preservation Services (DI&amp;PS) unit of the Information Technology Services (ITS) department within the <strong><a href=\"https://lib.vt.edu/\">University Libraries at Virginia Tech</a></strong> serves as a one-stop digital projects center for the arts, sciences, cultural and historical heritage materials of Virginia Tech,&nbsp;Appalachia, and the state of Virginia since 2016.&nbsp;<b></b> See our <strong><a href=\"http://di.lib.vt.edu/about\">About</a></strong> section for more information.</p><p>The DI&amp;PS team preserves, protects, and provides access to the collections by digitizing, preserving, and providing access to digital assets from both Virginia Tech and from the Southwest Virginia region.</p><p>This temporary digital library is to serve as a portal site to increase the visibility of the partners' collections and to provide access to unique digital content. This site is open to the public with educational use rights.</p><p>This digital library holds featured collections under <strong><a href=\"http://di.lib.vt.edu/exhibits\" title=\"Exhibits\">Exhibits</a></strong>, while the other items can be found in <strong><a href=\"http://di.lib.vt.edu/items/browse\" title=\"Browse Items\">Browse Items</a></strong> or <a href=\"http://di.lib.vt.edu/collections/browse\" title=\"Browse Collections\"><strong>Browse Collections</strong></a>.</p></div>"
   },
   "contact": [

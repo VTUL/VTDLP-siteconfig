@@ -45,5 +45,10 @@
       "cityStateZip": "Blacksburg, VA 24061",
       "phone": "(540)231-6308"
     }
-  ]
+  ],
+  "aboutCopy": {
+    "type": "file",
+    "value": "html/default_about.html"
+  },
+  "termsCopy": {}
 }

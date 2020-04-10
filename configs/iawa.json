@@ -138,6 +138,7 @@
   },
   "termsCopy": {
     "type": "file",
-    "value": "html/iawa_terms.html"
+    "value": "html/iawa_terms.html",
+    "download": "https://digitalsc.lib.vt.edu/files/thumbnails/spec_forms/PubPermission.doc"
   }
 }

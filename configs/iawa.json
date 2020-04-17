@@ -29,85 +29,78 @@
       "src": "images/static/iawa_Ms1994_016_F004_Per_Art_005_001.jpg",
       "altText": "[Modern-style living room in grayscale], n.d. Watercolor (Ms1994-016)"
     },
-    "carousel": [
+    "featuredItems": [
       {
-        "src": "images/carousel/1_iawa_logo.jpg",
-        "altText": "Welcome to the IAWA Online Collections",
-        "captionHeader": "Welcome to the IAWA Online Collections",
-        "captionText":
-          "Browse through selected items from the personal collections of 20th century women architects"
+        "src": "images/featuredItems/3_Church_r.jpg",
+        "altText": "Melita Rodeck's Altar, church interior",
+        "cardTitle": "Altar, church interior, n.d. Elevation (Ms1992-028)",
+        "link": "/archive/hv38k10t"
       },
       {
-        "src": "images/carousel/2_Ms2008_089_B001_F007_001_SecondSt_Ms_001_r.jpg",
-        "altText": "Alexander",
-        "captionHeader": "Alexander",
-        "captionText": ""
+        "src": "images/featuredItems/Ms1988-017_F003_003_Peck_Ph_001.jpg",
+        "altText": "Alberta Pfeiffer's Living room, Peck residence",
+        "cardTitle": "Living room, Peck residence, Hadlyme, Connecticut, n.d. Photograph (Ms1988-017)",
+        "link": "/archive/b991tt2r"
       },
       {
-        "src": "images/carousel/3_Church_r.jpg",
-        "altText": "Melita Rodeck",
-        "captionHeader": "Melita Rodeck",
-        "captionText": ""
+        "src": "images/featuredItems/Ms1990_025_EconLab_Dr_F002_019_001.jpg",
+        "altText": "Lorraine Rudoff's Economics Laboratory Inc.",
+        "cardTitle": "Economics Laboratory Inc., Industry, California, October 31, 1975. Framing plan and sections (Ms1990-025)",
+        "link": "/archive/tw587742"
       },
       {
-        "src": "images/carousel/4_Rodeck_Vienna_r.jpg",
-        "altText": "Melita Rodeck",
-        "captionHeader": "Melita Rodeck",
-        "captionText": ""
+        "src": "images/featuredItems/Ms2013_088_B010_037_BeverlyGlenApartments_Bp.jpg",
+        "altText": "Margaret Ann Cochrane's Beverly Glen Apartments",
+        "cardTitle": "Beverly Glen Apartments, December 20, 1972. Index of drawings (Ms2013-088)",
+        "link": "/archive/js66109k"
       },
       {
-        "src": "images/carousel/5_rupp.jpg",
-        "altText": "Sigrid Rupp",
-        "captionHeader": "Sigrid Rupp",
-        "captionText": ""
+        "src": "images/featuredItems/Ms1992_028_B002_F001_Dunbarton_Dr_003_001.jpg",
+        "altText": "Melita Rodeck's Proposed dormitory building",
+        "cardTitle": "Proposed dormitory building, Dunbarton College, Washington, D.C., n.d. Elevation (Ms1992-028)",
+        "link": "/archive/zc60hx9m"
       },
       {
-        "src": "images/carousel/6_Ms2013_023_F003_019_Austellungbau_Dr_001_r.jpg",
-        "altText": "Dorothee Stelzer King",
-        "captionHeader": "Dorothee Stelzer King",
-        "captionText": ""
+        "src": "images/featuredItems/Ms1994_016_F004_Per_Art_011_001.jpg",
+        "altText": "Martha J. Crawford's Jazz Waltz, Good News Blues",
+        "cardTitle": "Jazz Waltz, Good News Blues [Shapes on a peach background], n.d. Pastel (Ms1994-016)",
+        "link": "/archive/zr39cs8w"
       },
       {
-        "src": "images/carousel/7_Ms1991_046_MeditationGroup_B094_015_copy_25p_r.jpg",
-        "altText": "Zelma Wilson",
-        "captionHeader": "Zelma Wilson",
-        "captionText": ""
+        "src": "images/featuredItems/Ms2007_009_F003_Untitled_Dr_001_001.jpg",
+        "altText": "E. Maria Roth's [Street and trees]",
+        "cardTitle": "[Street and trees], n.d. Sketch (Ms2007-009)",
+        "link": "/archive/h691d06x"
       },
       {
-        "src": "images/carousel/8_Ms1991_046_MeditationGroup_B094_002_25p_r.jpg",
-        "altText": "Zelma Wilson",
-        "captionHeader": "Zelma Wilson",
-        "captionText": ""
+        "src": "images/featuredItems/Ms1990_057_F002_006_Per_Dr_001.jpg",
+        "altText": "Olive Chadeayne's Private Chapel",
+        "cardTitle": "Private chapel, c. 1925. Floor plan (Ms1990-057)",
+        "link": "/archive/nk652v8j"
       },
       {
-        "src": "images/carousel/9_Ms1998_022_B001_F002_001_Pro_Ms_031_r.jpg",
-        "altText": "Jean Linden Young",
-        "captionHeader": "Jean Linden Young",
-        "captionText": ""
+        "src": "images/featuredItems/Ms1998_022_B002_F010_001_Pro_Ms_001.jpg",
+        "altText": "Jean Linden Young's Materials related to the l'Union Internationale des Femmes Architects",
+        "cardTitle": "Materials related to the l'Union Internationale des Femmes Architects (International Association of Women Architects) meeting, Ramsar, Iran, June 15, 1976-October 30, 1976. Photographs and documents (Ms1998-022)",
+        "link": "/archive/1z46j32x"
       },
       {
-        "src": "images/carousel/10_Ms1990_016_F026_014_Garvey_Dr_007_25p_r.jpg",
-        "altText": "Susana Torre",
-        "captionHeader": "Susana Torre",
-        "captionText": ""
+        "src": "images/featuredItems/Ms2007_009_B001_F014_Per_Ms_001_001.jpg",
+        "altText": "E. Maria Roth's Press Coverage",
+        "cardTitle": "Press Coverage, c. 1975-1976. Clippings (Ms2007-009)",
+        "link": "/archive/5v50sj5h"
       },
       {
-        "src": "images/carousel/11_Ms2013_090_B005_015_Cunningham_Ph_001_copy_r.jpg",
-        "altText": "Marie Louise Laleyan",
-        "captionHeader": "Marie Louise Laleyan",
-        "captionText": ""
+        "src": "images/featuredItems/Ms2013_023_B001_F004_001_Per_Ph_001.jpg",
+        "altText": "Dorothee S. King",
+        "cardTitle": "Dorothee S. King, c. 1980. Photograph",
+        "link": "/archive/sf24bx2z"
       },
       {
-        "src": "images/carousel/12_00002_50p_r.jpg",
-        "altText": "Eleanore Pettersen",
-        "captionHeader": "Eleanore Pettersen",
-        "captionText": ""
-      },
-      {
-        "src": "images/carousel/13_ArchitectPortraits_r.jpg",
-        "altText": "IAWA Portraits",
-        "captionHeader": "IAWA Portraits",
-        "captionText": "Architect Portraits"
+        "src": "images/featuredItems/Ms1998_022_B003_F002_005_Pro_Ph_001.jpg",
+        "altText": "Jean Linden Young' Bakery shop",
+        "cardTitle": "Bakery shop, exhibition board, Lexington, Kentucky, n.d. Photograph (Ms1998-022)",
+        "link": "/archive/c3820r21"
       }
     ],
     "statement": "A visual exhibit of selected items from the International Archive of Women in Architecture, a joint partnership between the College of Architecture and Urban Studies and the University Libraries at Virginia Tech"

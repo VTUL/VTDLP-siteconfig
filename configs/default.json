@@ -25,6 +25,10 @@
     }
   ],
   "homePage": {
+    "staticImage": {
+      "src": "images/static/default.jpg",
+      "altText": ""
+    },
     "carousel": [
       {
         "src": "images/carousel/2_Ms2008_089_B001_F007_001_SecondSt_Ms_001_r.jpg",

@@ -37,17 +37,17 @@
         "captionText": ""
       }
     ]
-    ,"statement":"<div><h1>Virginia Tech Digital Library Platform</h1><p>Welcome to VTDLP</p></div>"
+    ,"statement":"<div><h1>Virginia Tech Digital Library Platform</h1><p>Welcome to VTDLP. VTDLP is a cloud-native, digital libraries solution supporting preservation and access while taking advantage of the efficiencies of Amazon Web Services.</p></div>"
   },
   "contact": [
     {
-      "title": "Assoc Dir. Digital Libraries",
-      "email": "jjt@vt.edu",
+      "title": "Digital Library Development",
+      "email": "vtul-dev-g@vt.edu",
       "group": "Digital Library Development",
       "department": "University Libraries (0434)",
       "streetAddress": "560 Drillfield Drive",
       "cityStateZip": "Blacksburg, VA 24061",
-      "phone": "(540)231-6308"
+      "phone": "(540)231-6170"
     }
   ],
   "aboutCopy": {

@@ -29,15 +29,29 @@
       "src": "images/static/default.jpg",
       "altText": ""
     },
-    "carousel": [
+    "sponsors": [
       {
-        "src": "images/carousel/2_Ms2008_089_B001_F007_001_SecondSt_Ms_001_r.jpg",
-        "altText": "International Archive of Women in Architecture",
-        "captionHeader": "International Archive of Women in Architecture",
-        "captionText": ""
+        "img": "/images/static/sponsor_example.png",
+        "alt": "Alt example 1",
+        "link": "href://vt.edu"
+      },
+      {
+        "img": "/images/static/sponsor_example.png",
+        "alt": "Alt example 2",
+        "link": "href://vt.edu"
+      },
+      {
+        "img": "/images/static/sponsor_example.png",
+        "alt": "Alt example 3",
+        "link": "href://vt.edu"
+      },
+      {
+        "img": "/images/static/sponsor_example.png",
+        "alt": "Alt example 4",
+        "link": "href://vt.edu"
       }
-    ]
-    ,"statement":"<div><h1>Virginia Tech Digital Library Platform</h1><p>Welcome to VTDLP. VTDLP is a cloud-native, digital libraries solution supporting preservation and access while taking advantage of the efficiencies of Amazon Web Services.</p></div>"
+    ],
+    "statement":"<div><h1>Virginia Tech Digital Library Platform</h1><p>Welcome to VTDLP. VTDLP is a cloud-native, digital libraries solution supporting preservation and access while taking advantage of the efficiencies of Amazon Web Services.</p></div>"
   },
   "contact": [
     {

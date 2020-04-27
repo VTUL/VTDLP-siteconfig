@@ -51,7 +51,13 @@
         "link": "href://vt.edu"
       }
     ],
-    "statement":"<div><h1>Virginia Tech Digital Library Platform</h1><p>Welcome to VTDLP. VTDLP is a cloud-native, digital libraries solution supporting preservation and access while taking advantage of the efficiencies of Amazon Web Services.</p></div>"
+    "statement":"<div><h1>Virginia Tech Digital Library Platform</h1><p>Welcome to VTDLP. VTDLP is a cloud-native, digital libraries solution supporting preservation and access while taking advantage of the efficiencies of Amazon Web Services.</p></div>",
+    "mediaSection": {
+      "title": "Welcome to the University Libraries at Virginia Tech",
+      "text": "The University Libraries play an essential role in furthering Virginia Tech’s mission as a global land-grant university by providing a diversity of resources to produce, disseminate, use, share and sustain data and information.",
+      "mediaEmbed": "<iframe src=\"https://www.youtube.com/embed/8fswmAtvCqI\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "link": "https://lib.vt.edu/"
+      }
   },
   "contact": [
     {

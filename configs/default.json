@@ -31,22 +31,22 @@
     },
     "sponsors": [
       {
-        "img": "/images/static/sponsor_example.png",
-        "alt": "Alt example 1",
-        "link": "href://vt.edu"
+        "img": "https://vtdlp-dev-site-data.s3.amazonaws.com/images/default/CLIR_red_w_wordmark.png",
+        "alt": "CLIR",
+        "link": "https://www.clir.org/"
       },
       {
-        "img": "/images/static/sponsor_example.png",
-        "alt": "Alt example 2",
-        "link": "href://vt.edu"
+        "img": "https://vtdlp-dev-site-data.s3.amazonaws.com/images/default/iawa_logo.png",
+        "alt": "IAWA",
+        "link": "https://spec.lib.vt.edu/iawa/"
       },
       {
-        "img": "https://iawa-dev.cloud.lib.vt.edu/images/library-logo-lockup_color.png",
+        "img": "https://vtdlp-dev-site-data.s3.amazonaws.com/images/default/library-logo-lockup_color.png",
         "alt": "Virginia Tech Libraries",
         "link": "https://lib.vt.edu/"
       },
       {
-        "img": "https://vt.edu/local_assets/www.assets.cms.vt.edu/images/logo-maroon-whiteBG.svg",
+        "img": "https://vtdlp-dev-site-data.s3.amazonaws.com/images/default/vt_logo.png",
         "alt": "Virginia Tech",
         "link": "https://vt.edu/"
       }

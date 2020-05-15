@@ -41,14 +41,14 @@
         "link": "href://vt.edu"
       },
       {
-        "img": "/images/static/sponsor_example.png",
-        "alt": "Alt example 3",
-        "link": "href://vt.edu"
+        "img": "https://iawa-dev.cloud.lib.vt.edu/images/library-logo-lockup_color.png",
+        "alt": "Virginia Tech Libraries",
+        "link": "https://lib.vt.edu/"
       },
       {
-        "img": "/images/static/sponsor_example.png",
-        "alt": "Alt example 4",
-        "link": "href://vt.edu"
+        "img": "https://vt.edu/local_assets/www.assets.cms.vt.edu/images/logo-maroon-whiteBG.svg",
+        "alt": "Virginia Tech",
+        "link": "https://vt.edu/"
       }
     ],
     "statement":"<div><h1>Virginia Tech Digital Library Platform</h1><p>Welcome to VTDLP. VTDLP is a cloud-native, digital libraries solution supporting preservation and access while taking advantage of the efficiencies of Amazon Web Services.</p></div>",

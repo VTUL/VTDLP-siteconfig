@@ -26,7 +26,7 @@
   ],
   "homePage": {
     "staticImage": {
-      "src": "images/static/default.jpg",
+      "src": "https://vtdlp-dev-site-data.s3.amazonaws.com/images/default/default.jpg",
       "altText": ""
     },
     "sponsors": [

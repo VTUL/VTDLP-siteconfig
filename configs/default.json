@@ -2,6 +2,7 @@
   "siteId": "vtdlp",
   "siteTitle": "VTDLP",
   "siteName": "Virginia Tech Digital Library Platform",
+  "analyticsID": "example",
   "siteNavLinks": [
     {
       "text": "Home",

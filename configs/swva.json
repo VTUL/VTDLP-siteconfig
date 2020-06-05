@@ -2,6 +2,7 @@
   "siteId": "swva",
   "siteTitle": "SWVA",
   "siteName": "Southwest Virginia Digital Library",
+  "analyticsID": "example",
   "siteNavLinks": [
     {
       "text": "Home",

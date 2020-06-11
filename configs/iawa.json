@@ -117,6 +117,36 @@
         "alt": "IAWA",
         "link": "https://spec.lib.vt.edu/iawa/"
       }
+    ],
+    "collectionHighlights": [
+      {
+        "img": "https://vtdlp-dev-site-data.s3.amazonaws.com/images/iawa/Ms1994_016_F002_Per_Art_016_001.jpg",
+        "title": "Travel sketches by IAWA architects",
+        "searchTerm": "travel sketches",
+        "filter": "resource_type",
+        "itemCount": "51"
+      },
+      {
+        "img": "https://vtdlp-dev-site-data.s3.amazonaws.com/images/iawa/Ms1990_025_Per_Scrap_B001_F002_001_001.jpg",
+        "title": "Educational and Research Facilities",
+        "searchTerm": "Educational and research",
+        "filter": "tags",
+        "itemCount": "294"
+      },
+      {
+        "img": "https://vtdlp-dev-site-data.s3.amazonaws.com/images/iawa/Ms2013_023_F003_022_Austellungbau_Dr_001.jpg",
+        "title": "Student work by IAWA architects",
+        "searchTerm": "Student work",
+        "filter": "tags",
+        "itemCount": "85"
+      },
+      {
+        "img": "https://vtdlp-dev-site-data.s3.amazonaws.com/images/iawa/Ms1992_028_F027_001_AABhangar_Bp_001.jpg",
+        "title": "Axonometric projections",
+        "searchTerm": "Axonometric projections",
+        "filter": "resource_type",
+        "itemCount": "7"
+      }
     ]
   },
   "contact": [

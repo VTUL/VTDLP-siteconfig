@@ -27,10 +27,68 @@
   ],
   "homePage": {
     "staticImage": {
-      "src": "images/static/swva_BTR_BTR_000253_0001.jpg",
-      "altText": "Barter Theatre's 52nd Season, 1984 plays and calender, historic Abingdon Virginia"
+      "src": "https://vtdlp-dev-site-data.s3.amazonaws.com/images/swva/market_scene2.jpg",
+      "altText": "Market Scene, Johan Hamza (Austrian, 1850-1927)"
     },
-    "statement": "<div><p>The Southwest Virginia Archive is an online library for the arts, sciences, culture, and history of Appalachia, and the Commonwealth of Virginia. Virginia Tech University Libraries partners with regional stakeholders to digitize, preserve, and provide access to digital assets from across the region. Unless stated otherwise, all original materials and intellectual property belong to the contributing institution and are provided here for free educational use to the public.</p></div>"
+    "homeStatement": {
+      "statement": "The Southwest Virginia Archive is an online library for the arts, sciences, culture, and history of Appalachia, and the Commonwealth of Virginia. Virginia Tech University Libraries partners with regional stakeholders to digitize, preserve, and provide access to digital assets from across the region. Unless stated otherwise, all original materials and intellectual property belong to the contributing institution and are provided here for free educational use to the public."
+    },
+    "featuredItems": [
+      {
+        "src": "https://vtdlp-dev-site-data.s3.amazonaws.com/images/swva/TAU_ART_000122_0004_acs.jpg",
+        "altText": "Piper, Robert Ryland Kearfott (American, 1890-1969)",
+        "cardTitle": "Piper",
+        "link": ""
+      },
+      {
+        "src": "https://vtdlp-dev-site-data.s3.amazonaws.com/images/swva/TAU_ART_000123_0002_acs.jpg",
+        "altText": "Portrait of Norah Gribble, John Singer Sargent (American, 1856-1925)",
+        "cardTitle": "Portrait of Norah Gribble",
+        "link": ""
+      },
+      {
+        "src": "https://vtdlp-dev-site-data.s3.amazonaws.com/images/swva/TAU_ART_000130_0006_acs.jpg",
+        "altText": "Curtsey, E. Antoinette Hale (American, Contemporary)",
+        "cardTitle": "Curtsey",
+        "link": ""
+      },
+      {
+        "src": "https://vtdlp-dev-site-data.s3.amazonaws.com/images/swva/market_scene.jpg",
+        "altText": "Market Scene, Johan Hamza (Austrian, 1850-1927)",
+        "cardTitle": "Market Scene",
+        "link": ""
+      },
+      {
+        "src": "https://vtdlp-dev-site-data.s3.amazonaws.com/images/swva/shackled.jpg",
+        "altText": "Shackled Hands And Human Chains, Purvis Young (American, 1943-2010)",
+        "cardTitle": "Shackled Hands And Human Chains",
+        "link": ""
+      },
+      {
+        "src": "https://vtdlp-dev-site-data.s3.amazonaws.com/images/swva/BTR_BTR_000475_0001_acs.jpg",
+        "altText": "Thieves Carnival, Barter Theatre",
+        "cardTitle": "Thieves Carnival",
+        "link": ""
+      },
+      {
+        "src": "https://vtdlp-dev-site-data.s3.amazonaws.com/images/swva/BTR_BTR_000218_0001_acs.jpg",
+        "altText": "Leader of the Pack by Sherman Ewing, Barter Theatre",
+        "cardTitle": "Leader of the Pack by Sherman Ewing",
+        "link": ""
+      },
+      {
+        "src": "https://vtdlp-dev-site-data.s3.amazonaws.com/images/swva/BTR_BTR_000640_0001_acs.jpg",
+        "altText": "As You Like It by William Shakespeare, Barter Theatre",
+        "cardTitle": "As You Like It by William Shakespeare",
+        "link": ""
+      },
+      {
+        "src": "https://vtdlp-dev-site-data.s3.amazonaws.com/images/swva/measure.jpg",
+        "altText": "Measure For Measure by William Shakespeare, Virginia Polytechnic Institute and State University. Theatre Arts - University Theatre",
+        "cardTitle": "Measure For Measure by William Shakespeare",
+        "link": ""
+      }
+    ]
   },
   "contact": [
     {

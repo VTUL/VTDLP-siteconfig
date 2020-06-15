@@ -1,5 +1,5 @@
 # VTDLP configs sync S3 Bucket
-The following settings must be passed as environment variables as encrypted secrets in GitHub. 
+The following settings must be passed as environment variables as encrypted secrets in GitHub.
 
 | Key | Value | Suggested Type | Required | Default |
 | ------------- | ------------- | ------------- | ------------- | ------------- |

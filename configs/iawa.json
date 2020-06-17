@@ -125,29 +125,25 @@
       {
         "img": "https://vtdlp-dev-site-data.s3.amazonaws.com/images/iawa/Ms1994_016_F002_Per_Art_016_001.jpg",
         "title": "Travel sketches by IAWA architects",
-        "searchTerm": "travel sketches",
-        "filter": "resource_type",
+        "link": "/search?q=&field=description&view=Gallery&category=archive&resource_type=Travel+sketches",
         "itemCount": "51"
       },
       {
         "img": "https://vtdlp-dev-site-data.s3.amazonaws.com/images/iawa/Ms1990_025_Per_Scrap_B001_F002_001_001.jpg",
         "title": "Educational and Research Facilities",
-        "searchTerm": "Educational and research",
-        "filter": "tags",
+        "link": "/search/?category=archive&field=tags&q=Educational%20and%20research&view=Gallery",
         "itemCount": "294"
       },
       {
         "img": "https://vtdlp-dev-site-data.s3.amazonaws.com/images/iawa/Ms2013_023_F003_022_Austellungbau_Dr_001.jpg",
         "title": "Student work by IAWA architects",
-        "searchTerm": "Student work",
-        "filter": "tags",
+        "link": "/search/?category=archive&field=tags&q=Student%20work&view=Gallery",
         "itemCount": "85"
       },
       {
         "img": "https://vtdlp-dev-site-data.s3.amazonaws.com/images/iawa/Ms1992_028_F027_001_AABhangar_Bp_001.jpg",
         "title": "Axonometric projections",
-        "searchTerm": "Axonometric projections",
-        "filter": "resource_type",
+        "link": "/search/?q=&field=description&view=Gallery&resource_type=Axonometric+projections+%28images%29",
         "itemCount": "7"
       }
     ]

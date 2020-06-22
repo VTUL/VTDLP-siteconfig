@@ -1,7 +1,7 @@
 {
   "siteId": "swva",
   "siteTitle": "SWVA",
-  "siteName": "Southwest Virginia Digital Library",
+  "siteName": "Southwest Virginia Digital Archive",
   "analyticsID": "example",
   "siteNavLinks": [
     {
@@ -31,7 +31,7 @@
       "altText": "Market Scene, Johan Hamza (Austrian, 1850-1927)"
     },
     "homeStatement": {
-      "statement": "The Southwest Virginia Archive is an online library for the arts, sciences, culture, and history of Appalachia, and the Commonwealth of Virginia. Virginia Tech University Libraries partners with regional stakeholders to digitize, preserve, and provide access to digital assets from across the region. Unless stated otherwise, all original materials and intellectual property belong to the contributing institution and are provided here for free educational use to the public."
+      "statement": "The Southwest Virginia Digital Archive is an online library for the arts, sciences, culture, and history of Appalachia, and the Commonwealth of Virginia. Virginia Tech University Libraries partners with regional stakeholders to digitize, preserve, and provide access to digital assets from across the region. Unless stated otherwise, all original materials and intellectual property belong to the contributing institution and are provided here for free educational use to the public."
     },
     "featuredItems": [
       {

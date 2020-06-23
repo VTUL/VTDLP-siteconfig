@@ -1,0 +1,51 @@
+{
+  "siteId": "hokies",
+  "siteTitle": "Hokies@Home",
+  "siteName": "Virginia Tech Digital Library Platform",
+  "analyticsID": "hokies",
+  "siteNavLinks": [
+    {
+      "text": "Home",
+      "url": "/"
+    },
+    {
+      "text": "About",
+      "url": "/about"
+    },
+    {
+      "text": "Permission Page",
+      "url": "/terms"
+    },
+    {
+      "text": "Browse Collections",
+      "url": "/collections"
+    },
+    {
+      "text": "Search Items",
+      "url": "/search"
+    }
+  ],
+  "homePage": {
+    "staticImage": {
+      "src": "https://vtdlp-dev-site-data.s3.amazonaws.com/images/default/default.jpg",
+      "altText": ""
+    },
+    "statement":"<div><h1>Virginia Tech Digital Library Platform</h1></div>"
+  },
+  "contact": [
+    {
+      "title": "Digital Library Development",
+      "email": "vtul-dev-g@vt.edu",
+      "group": "",
+      "department": "University Libraries (0434)",
+      "streetAddress": "560 Drillfield Drive",
+      "cityStateZip": "Blacksburg, VA 24061",
+      "phone": "(540)231-6170"
+    }
+  ],
+  "aboutCopy": {
+    "type": "file",
+    "value": "html/default_about.html"
+  },
+  "termsCopy": {}
+}

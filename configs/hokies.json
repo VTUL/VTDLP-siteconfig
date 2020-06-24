@@ -1,7 +1,7 @@
 {
   "siteId": "hokies",
   "siteTitle": "Hokies@Home",
-  "siteName": "Virginia Tech Digital Library Platform",
+  "siteName": "Hokies@Home",
   "analyticsID": "hokies",
   "siteNavLinks": [
     {
@@ -27,25 +27,38 @@
   ],
   "homePage": {
     "staticImage": {
-      "src": "https://vtdlp-dev-site-data.s3.amazonaws.com/images/default/default.jpg",
-      "altText": ""
+      "src": "https://vtdlp-dev-site-data.s3.amazonaws.com/images/hokies/HokiesatHomeCover.jpg",
+      "altText": "A woman wearing headphones sits in front of a home office desk with a small dog in her lap."
     },
-    "statement":"<div><h1>Virginia Tech Digital Library Platform</h1></div>"
+    "homeStatement": {
+      "heading": "Documenting COVID-19 at Virginia Tech",
+      "statement": "Hokies@Home began in the Spring of 2020 as an effort to document the extraordinary experiences of members of the Virginia Tech community during the COVID-19 global pandemic. The collection includes official university communications and submissions from the community. Special Collections and University Archives is actively collecting materials to include in this collection. If you are interested in donating material for this collection, please visit the About page for more information."
+    },
+    "sponsors": [
+      {
+        "img": "https://vtdlp-dev-site-data.s3.amazonaws.com/images/hokies/VT-Libraries-Logo-Vertical_White.png",
+        "alt": "University Libraries at Virginia Tech",
+        "link": "https://lib.vt.edu/"
+      }
+    ]
   },
   "contact": [
     {
-      "title": "Digital Library Development",
-      "email": "vtul-dev-g@vt.edu",
-      "group": "",
+      "title": "Community Collections Archivist",
+      "email": "specref@vt.edu",
+      "group": "Special Collections and University Archives",
       "department": "University Libraries (0434)",
       "streetAddress": "560 Drillfield Drive",
       "cityStateZip": "Blacksburg, VA 24061",
-      "phone": "(540)231-6170"
+      "phone": "(540) 231-4442"
     }
   ],
   "aboutCopy": {
     "type": "file",
-    "value": "html/default_about.html"
+    "value": "html/hokies_about.html"
   },
-  "termsCopy": {}
+  "termsCopy": {
+    "type": "file",
+    "value": "html/hokies_terms.html"
+  }
 }

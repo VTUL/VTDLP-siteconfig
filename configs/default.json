@@ -75,5 +75,29 @@
     "type": "file",
     "value": "html/default_about.html"
   },
-  "termsCopy": {}
+  "termsCopy": {},
+  "searchPage": {
+    "facets": [
+      {
+        "label": "Category",
+        "name": "category",
+        "multiValued": false,
+        "values": ["collection", "archive"]
+      },
+      {
+        "label": "Language",
+        "name": "language",
+        "multiValued": false,
+        "values": ["en", "fr"]
+      },
+      {
+        "label": "Type",
+        "name": "resource_type",
+        "multiValued": true,
+        "values": ["image",
+                   "Posters"
+        ]
+      }
+    ]
+  }
 }

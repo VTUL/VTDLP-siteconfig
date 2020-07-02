@@ -1,0 +1,74 @@
+{
+  "siteId": "podcasts",
+  "siteTitle": "Podcasts",
+  "siteName": "Podcasts from Virginia Tech Publishing",
+  "analyticsID": "podcasts",
+  "siteNavLinks": [
+    {
+      "text": "Home",
+      "url": "/"
+    },
+    {
+      "text": "About",
+      "url": "/about"
+    },
+    {
+      "text": "Permission Page",
+      "url": "/terms"
+    },
+    {
+      "text": "Browse Collections",
+      "url": "/collections"
+    },
+    {
+      "text": "Search Items",
+      "url": "/search"
+    }
+  ],
+  "homePage": {
+    "staticImage": {
+      "src": "https://vtdlp-dev-site-data.s3.amazonaws.com/images/default/default.jpg",
+      "altText": ""
+    }
+  },
+  "contact": [
+    {
+      "title": "Virginia Tech Publishing",
+      "email": "",
+      "group": "",
+      "department": "Virginia Tech Publishing",
+      "streetAddress": "560 Drillfield Drive",
+      "cityStateZip": "Blacksburg, VA 24061",
+      "phone": ""
+    }
+  ],
+  "aboutCopy": {
+    "type": "file",
+    "value": "html/default_about.html"
+  },
+  "termsCopy": {},
+  "searchPage": {
+    "facets": [
+      {
+        "label": "Category",
+        "name": "category",
+        "multiValued": false,
+        "values": ["collection", "archive"]
+      },
+      {
+        "label": "Language",
+        "name": "language",
+        "multiValued": false,
+        "values": ["en", "fr"]
+      },
+      {
+        "label": "Type",
+        "name": "resource_type",
+        "multiValued": true,
+        "values": ["image",
+                   "Posters"
+        ]
+      }
+    ]
+  }
+}

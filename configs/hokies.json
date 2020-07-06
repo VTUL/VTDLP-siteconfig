@@ -27,7 +27,7 @@
   ],
   "homePage": {
     "staticImage": {
-      "src": "https://vtdlp-dev-site-data.s3.amazonaws.com/images/hokies/HokiesatHomeCover.jpg",
+      "src": "https://img.cloud.lib.vt.edu/sites/images/hokies/HokiesatHomeCover.jpg",
       "altText": "A woman wearing headphones sits in front of a home office desk with a small dog in her lap."
     },
     "homeStatement": {
@@ -36,7 +36,7 @@
     },
     "sponsors": [
       {
-        "img": "https://vtdlp-dev-site-data.s3.amazonaws.com/images/hokies/VT-Libraries-Logo-Vertical_White.png",
+        "img": "https://img.cloud.lib.vt.edu/sites/images/hokies/VT-Libraries-Logo-Vertical_White.png",
         "alt": "University Libraries at Virginia Tech",
         "link": "https://lib.vt.edu/"
       }

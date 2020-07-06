@@ -27,7 +27,7 @@
   ],
   "homePage": {
     "staticImage": {
-      "src": "https://vtdlp-dev-site-data.s3.amazonaws.com/images/swva/market_scene2.jpg",
+      "src": "https://img.cloud.lib.vt.edu/sites/images/swva/market_scene2.jpg",
       "altText": "Market Scene, Johan Hamza (Austrian, 1850-1927)"
     },
     "homeStatement": {
@@ -35,55 +35,55 @@
     },
     "featuredItems": [
       {
-        "src": "https://vtdlp-dev-site-data.s3.amazonaws.com/images/swva/TAU_ART_000122_0004_acs.jpg",
+        "src": "https://img.cloud.lib.vt.edu/sites/images/swva/TAU_ART_000122_0004_acs.jpg",
         "altText": "Piper, Robert Ryland Kearfott (American, 1890-1969)",
         "cardTitle": "Piper",
-        "link": ""
+        "link": "https://swva-dev.cloud.lib.vt.edu/archive/j5081t6w"
       },
       {
-        "src": "https://vtdlp-dev-site-data.s3.amazonaws.com/images/swva/TAU_ART_000123_0002_acs.jpg",
+        "src": "https://img.cloud.lib.vt.edu/sites/images/swva/TAU_ART_000123_0002_acs.jpg",
         "altText": "Portrait of Norah Gribble, John Singer Sargent (American, 1856-1925)",
         "cardTitle": "Portrait of Norah Gribble",
-        "link": ""
+        "link": "https://swva-dev.cloud.lib.vt.edu/archive/dq15ch4x"
       },
       {
-        "src": "https://vtdlp-dev-site-data.s3.amazonaws.com/images/swva/TAU_ART_000130_0006_acs.jpg",
+        "src": "https://img.cloud.lib.vt.edu/sites/images/swva/TAU_ART_000130_0006_acs.jpg",
         "altText": "Curtsey, E. Antoinette Hale (American, Contemporary)",
         "cardTitle": "Curtsey",
-        "link": ""
+        "link": "https://swva-dev.cloud.lib.vt.edu/archive/d464fm8m"
       },
       {
-        "src": "https://vtdlp-dev-site-data.s3.amazonaws.com/images/swva/market_scene.jpg",
+        "src": "https://img.cloud.lib.vt.edu/sites/images/swva/market_scene.JPG",
         "altText": "Market Scene, Johan Hamza (Austrian, 1850-1927)",
         "cardTitle": "Market Scene",
         "link": ""
       },
       {
-        "src": "https://vtdlp-dev-site-data.s3.amazonaws.com/images/swva/shackled.jpg",
+        "src": "https://img.cloud.lib.vt.edu/sites/images/swva/shackled.JPG",
         "altText": "Shackled Hands And Human Chains, Purvis Young (American, 1943-2010)",
         "cardTitle": "Shackled Hands And Human Chains",
-        "link": ""
+        "link": "https://swva-dev.cloud.lib.vt.edu/archive/6p15t97g"
       },
       {
-        "src": "https://vtdlp-dev-site-data.s3.amazonaws.com/images/swva/BTR_BTR_000475_0001_acs.jpg",
+        "src": "https://img.cloud.lib.vt.edu/sites/images/swva/BTR_BTR_000475_0001_acs.jpg",
         "altText": "Thieves Carnival, Barter Theatre",
         "cardTitle": "Thieves Carnival",
-        "link": ""
+        "link": "https://swva-dev.cloud.lib.vt.edu/archive/2k14bg2z"
       },
       {
-        "src": "https://vtdlp-dev-site-data.s3.amazonaws.com/images/swva/BTR_BTR_000218_0001_acs.jpg",
+        "src": "https://img.cloud.lib.vt.edu/sites/images/swva/BTR_BTR_000218_0001_acs.jpg",
         "altText": "Leader of the Pack by Sherman Ewing, Barter Theatre",
         "cardTitle": "Leader of the Pack by Sherman Ewing",
-        "link": ""
+        "link": "https://swva-dev.cloud.lib.vt.edu/archive/8g08sz6b"
       },
       {
-        "src": "https://vtdlp-dev-site-data.s3.amazonaws.com/images/swva/BTR_BTR_000640_0001_acs.jpg",
+        "src": "https://img.cloud.lib.vt.edu/sites/images/swva/BTR_BTR_000640_0001_acs.jpg",
         "altText": "As You Like It by William Shakespeare, Barter Theatre",
         "cardTitle": "As You Like It by William Shakespeare",
-        "link": ""
+        "link": "https://swva-dev.cloud.lib.vt.edu/archive/0c595666"
       },
       {
-        "src": "https://vtdlp-dev-site-data.s3.amazonaws.com/images/swva/measure.jpg",
+        "src": "https://img.cloud.lib.vt.edu/sites/images/swva/measure.JPG",
         "altText": "Measure For Measure by William Shakespeare, Virginia Polytechnic Institute and State University. Theatre Arts - University Theatre",
         "cardTitle": "Measure For Measure by William Shakespeare",
         "link": ""

@@ -27,7 +27,7 @@
   ],
   "homePage": {
     "staticImage": {
-      "src": "https://vtdlp-dev-site-data.s3.amazonaws.com/images/default/default.jpg",
+      "src": "https://img.cloud.lib.vt.edu/sites/images/default/default.jpg",
       "altText": ""
     }
   },

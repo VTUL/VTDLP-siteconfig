@@ -1,6 +1,6 @@
 {
   "siteId": "podcasts",
-  "siteTitle": "Podcasts",
+  "siteTitle": "Podcasts from Virginia Tech Publishing",
   "siteName": "Podcasts from Virginia Tech Publishing",
   "analyticsID": "podcasts",
   "siteNavLinks": [
@@ -29,17 +29,29 @@
     "staticImage": {
       "src": "https://img.cloud.lib.vt.edu/sites/images/default/default.jpg",
       "altText": ""
+    },
+    "homeStatement": {
+      "statement": "The Virginia Tech Publishing podcast initiative in the University Libraries is a program aimed at building a media production community of scholars exploring multi-modal publication across a broad spectrum of disciplines. The program also supports members of the Virginia Tech community interested in publishing cultural commentary to be held within digital collections in the Libraries. The Libraries provide access below to all shows produced by VT podcasters and also make those widely available across popular podcasting platforms."
     }
   },
   "contact": [
     {
       "title": "Virginia Tech Publishing",
-      "email": "",
+      "email": "publishing@vt.edu",
       "group": "",
       "department": "Virginia Tech Publishing",
       "streetAddress": "560 Drillfield Drive",
       "cityStateZip": "Blacksburg, VA 24061",
       "phone": ""
+    },
+    {
+      "title": "Athenaeum",
+      "email": "athenaeum@vt.edu",
+      "group": "University Libraries",
+      "department": "Newman Library",
+      "streetAddress": "560 Drillfield Drive",
+      "cityStateZip": "Blacksburg, VA 24061",
+      "phone": "540-231-6737"
     }
   ],
   "aboutCopy": {
@@ -65,9 +77,7 @@
         "label": "Type",
         "name": "resource_type",
         "multiValued": true,
-        "values": ["image",
-                   "Posters"
-        ]
+        "values": ["image", "Posters"]
       }
     ]
   }

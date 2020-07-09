@@ -103,7 +103,39 @@
   ],
   "aboutCopy": {
     "type": "file",
-    "value": "html/swva_about.html"
+    "value": "html/swva_about.html",
+    "additionalPages": [
+      {
+        "title": "Digital Preservation",
+        "link": "/digital-preservation",
+        "type": "file",
+        "value": "html/swva_digital-preservation.html"
+      },
+      {
+        "title": "Imaging",
+        "link": "/imaging",
+        "type": "file",
+        "value": "html/swva_imaging.html"
+      },
+      {
+        "title": "Metadata",
+        "link": "/metadata",
+        "type": "file",
+        "value": "html/swva_metadata.html"
+      },
+      {
+        "title": "Partners",
+        "link": "/partners",
+        "type": "file",
+        "value": "html/swva_partners.html"
+      },
+      {
+        "title": "People",
+        "link": "/people",
+        "type": "file",
+        "value": "html/swva_people.html"
+      }
+    ]
   },
   "termsCopy": {},
   "searchPage": {
@@ -124,13 +156,15 @@
         "label": "Medium",
         "name": "medium",
         "multiValued": true,
-        "values": ["chlorophyll print and resin",
-                   "oil",
-                   "painting (visual works)",
-                   "playbills",
-                   "postcards",
-                   "posters",
-                   "prints (visual works)"]
+        "values": [
+          "chlorophyll print and resin",
+          "oil",
+          "painting (visual works)",
+          "playbills",
+          "postcards",
+          "posters",
+          "prints (visual works)"
+        ]
       },
       {
         "label": "Type",

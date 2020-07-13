@@ -27,8 +27,9 @@
   ],
   "homePage": {
     "staticImage": {
-      "src": "https://img.cloud.lib.vt.edu/sites/images/default/default.jpg",
-      "altText": ""
+      "src": "https://img.cloud.lib.vt.edu/sites/images/podcasts/Podcasts_DLP.png",
+      "altText": "Virginia Tech Publishing Podcasts",
+      "showTitle": false
     },
     "homeStatement": {
       "statement": "The Virginia Tech Publishing podcast initiative in the University Libraries is a program aimed at building a media production community of scholars exploring multi-modal publication across a broad spectrum of disciplines. The program also supports members of the Virginia Tech community interested in publishing cultural commentary to be held within digital collections in the Libraries. The Libraries provide access below to all shows produced by VT podcasters and also make those widely available across popular podcasting platforms."

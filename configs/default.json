@@ -28,7 +28,8 @@
   "homePage": {
     "staticImage": {
       "src": "https://img.cloud.lib.vt.edu/sites/images/default/default.jpg",
-      "altText": ""
+      "altText": "",
+      "showTitle": true
     },
     "sponsors": [
       {

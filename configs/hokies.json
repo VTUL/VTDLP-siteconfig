@@ -28,7 +28,8 @@
   "homePage": {
     "staticImage": {
       "src": "https://img.cloud.lib.vt.edu/sites/images/hokies/HokiesatHomeCover.jpg",
-      "altText": "A woman wearing headphones sits in front of a home office desk with a small dog in her lap."
+      "altText": "A woman wearing headphones sits in front of a home office desk with a small dog in her lap.",
+      "showTitle": true
     },
     "homeStatement": {
       "heading": "Documenting COVID-19 at Virginia Tech",

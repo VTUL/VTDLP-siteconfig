@@ -29,7 +29,8 @@
   "homePage": {
     "staticImage": {
       "src": "https://img.cloud.lib.vt.edu/sites/images/iawa/iawa_Ms1994_016_F004_Per_Art_005_001.jpg",
-      "altText": "[Modern-style living room in grayscale], n.d. Watercolor (Ms1994-016)"
+      "altText": "[Modern-style living room in grayscale], n.d. Watercolor (Ms1994-016)",
+      "showTitle": true
     },
     "featuredItems": [
       {

@@ -156,34 +156,50 @@
       {
         "label": "Category",
         "name": "category",
-        "multiValued": false,
         "values": ["collection", "archive"]
       },
       {
-        "label": "Language",
-        "name": "language",
-        "multiValued": false,
-        "values": ["en", "fr"]
+        "label": "Collection",
+        "name": "collection",
+        "values": ["Barter Theatre Archives",
+                   "Taubman Museum of Art"
+                  ]
       },
       {
         "label": "Medium",
         "name": "medium",
-        "multiValued": true,
-        "values": [
-          "chlorophyll print and resin",
-          "oil",
-          "painting (visual works)",
-          "playbills",
-          "postcards",
-          "posters",
-          "prints (visual works)"
-        ]
+        "values": ["carved and polished Virginia soapstone",
+                   "chlorophyll print and resin",
+                   "color slides",
+                   "digitally altered image",
+                   "oil",
+                   "oil and fluorescent lacquer",
+                   "oil on board",
+                   "oil, wax crayon, collaged paper and gesso",
+                   "painting (visual works)",
+                   "photograph",
+                   "playbills",
+                   "postcards",
+                   "posters",
+                   "powder coated steel",
+                   "prints (visual works)",
+                   "rosa Portuguese marble",
+                   "sculpture (visual works)",
+                   "toned photograph with graphite"
+                  ]
       },
       {
         "label": "Type",
         "name": "resource_type",
-        "multiValued": true,
         "values": ["image"]
+      },
+      {
+        "label": "Subject",
+        "name": "subject",
+        "values": ["Theater",
+                   "Virginia; Art",
+                   "Japanese"
+                  ]
       }
     ]
   }

@@ -183,14 +183,13 @@
       {
         "label": "Category",
         "name": "category",
-        "multiValued": false,
         "values": ["collection", "archive"]
       },
       {
         "label": "Creator",
         "name": "creator",
-        "multiValued": false,
-        "values": ["Pfeiffer, Alberta Raffl, 1899-1994", 
+        "values": ["Pfeiffer, Alberta, 1899-1994",
+                   "Pfeiffer, Alberta Raffl, 1899-1994",
                    "King, Dorothee Stelzer (1934- )",
                    "Alexander, Dorothy Baxter",
                    "Roth, E. Maria",
@@ -206,7 +205,6 @@
       {
         "label": "Date",
         "name": "date",
-        "multiValued": false,
         "values": ["1920 - 1939",
                    "1940 - 1959",
                    "1960 - 1979",
@@ -217,7 +215,6 @@
       {
         "label": "Format",
         "name": "format",
-        "multiValued": true,
         "values": ["8 in. x 10 in.",
                    "12 in. x 17 in.",
                    "12 in. x 18 in.",
@@ -233,13 +230,11 @@
       {
         "label": "Language",
         "name": "language",
-        "multiValued": false,
         "values": ["en", "fr"]
       },
       {
         "label": "Medium",
         "name": "medium",
-        "multiValued": true,
         "values": ["Blueprints",
                    "Charcoal",
                    "Colored pencil",
@@ -264,7 +259,6 @@
       {
         "label": "Tags",
         "name": "tags",
-        "multiValued": true,
         "values": ["11 to 20 stories",
                    "3 to 5 stories",
                    "6 to 10 stories",
@@ -306,7 +300,6 @@
       {
         "label": "Type",
         "name": "resource_type",
-        "multiValued": true,
         "values": ["Architectural drawings (visual works)",
                    "Architectural models",
                    "Articles",

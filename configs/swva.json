@@ -57,7 +57,7 @@
         "src": "https://img.cloud.lib.vt.edu/sites/images/swva/market_scene.JPG",
         "altText": "Market Scene, Johan Hamza (Austrian, 1850-1927)",
         "cardTitle": "Market Scene",
-        "link": ""
+        "link": "https://swva-dev.cloud.lib.vt.edu/archive/kx75vp3q"
       },
       {
         "src": "https://img.cloud.lib.vt.edu/sites/images/swva/shackled.JPG",
@@ -107,10 +107,22 @@
     "value": "html/swva_about.html",
     "additionalPages": [
       {
+        "title": "Community Development Model",
+        "link": "/community-catalysts",
+        "type": "file",
+        "value": "html/swva_community-catalysts.html"
+      },
+      {
         "title": "Digital Preservation",
         "link": "/digital-preservation",
         "type": "file",
         "value": "html/swva_digital-preservation.html"
+      },
+      {
+        "title": "Get Involved",
+        "link": "/get-involved",
+        "type": "file",
+        "value": "html/swva_get-involved.html"
       },
       {
         "title": "Imaging",

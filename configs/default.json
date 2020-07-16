@@ -3,6 +3,7 @@
   "siteTitle": "VTDLP",
   "siteName": "Virginia Tech Digital Library Platform",
   "analyticsID": "example",
+  "assetBasePath": "https://img.cloud.lib.vt.edu/sites/html/default",
   "siteNavLinks": [
     {
       "text": "Home",
@@ -74,7 +75,7 @@
   ],
   "aboutCopy": {
     "type": "file",
-    "value": "html/default_about.html"
+    "value": "default_about.html"
   },
   "termsCopy": {},
   "searchPage": {

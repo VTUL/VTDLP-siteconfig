@@ -4,6 +4,7 @@
   "siteName": "International Archive of Women in Architecture",
   "siteColor": "#c52a1d",
   "analyticsID": "UA-4094890-21",
+  "assetBasePath": "https://img.cloud.lib.vt.edu/sites/html/iawa",
   "siteNavLinks": [
     {
       "text": "Home",
@@ -171,11 +172,11 @@
   ],
   "aboutCopy": {
     "type": "file",
-    "value": "html/iawa_about.html"
+    "value": "iawa_about.html"
   },
   "termsCopy": {
     "type": "file",
-    "value": "html/iawa_terms.html",
+    "value": "iawa_terms.html",
     "download": "https://digitalsc.lib.vt.edu/files/thumbnails/spec_forms/PubPermission.doc"
   },
   "searchPage": {

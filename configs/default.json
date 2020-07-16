@@ -27,28 +27,28 @@
   ],
   "homePage": {
     "staticImage": {
-      "src": "https://img.cloud.lib.vt.edu/sites/images/default/default.jpg",
+      "src": "https://img.cloud.lib.vt.edu/sites/images/default/cover_image.jpg",
       "altText": "",
       "showTitle": true
     },
     "sponsors": [
       {
-        "img": "https://img.cloud.lib.vt.edu/sites/images/default/CLIR_red_w_wordmark.png",
+        "img": "https://img.cloud.lib.vt.edu/sites/images/default/sponsor1.png",
         "alt": "CLIR",
         "link": "https://www.clir.org/"
       },
       {
-        "img": "https://img.cloud.lib.vt.edu/sites/images/default/iawa_logo.png",
+        "img": "https://img.cloud.lib.vt.edu/sites/images/default/sponsor2.png",
         "alt": "IAWA",
         "link": "https://spec.lib.vt.edu/iawa/"
       },
       {
-        "img": "https://img.cloud.lib.vt.edu/sites/images/default/library-logo-lockup_color.png",
+        "img": "https://img.cloud.lib.vt.edu/sites/images/default/sponsor3.png",
         "alt": "Virginia Tech Libraries",
         "link": "https://lib.vt.edu/"
       },
       {
-        "img": "https://img.cloud.lib.vt.edu/sites/images/default/vt_logo.png",
+        "img": "https://img.cloud.lib.vt.edu/sites/images/default/sponsor4.png",
         "alt": "Virginia Tech",
         "link": "https://vt.edu/"
       }

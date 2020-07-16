@@ -27,7 +27,7 @@
   ],
   "homePage": {
     "staticImage": {
-      "src": "https://img.cloud.lib.vt.edu/sites/images/podcasts/Podcasts_DLP.png",
+      "src": "https://img.cloud.lib.vt.edu/sites/images/podcasts/cover_image.png",
       "altText": "Virginia Tech Publishing Podcasts",
       "showTitle": false
     },

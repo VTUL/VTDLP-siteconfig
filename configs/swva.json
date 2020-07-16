@@ -3,6 +3,7 @@
   "siteTitle": "SWVA",
   "siteName": "Southwest Virginia Digital Archive",
   "analyticsID": "example",
+  "assetBasePath": "https://img.cloud.lib.vt.edu/sites/html/swva",
   "siteNavLinks": [
     {
       "text": "Home",
@@ -104,7 +105,7 @@
   ],
   "aboutCopy": {
     "type": "file",
-    "value": "html/swva_about.html",
+    "value": "swva_about.html",
     "additionalPages": [
       {
         "title": "Community Development Model",

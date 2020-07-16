@@ -3,6 +3,7 @@
   "siteTitle": "Hokies@Home",
   "siteName": "Hokies@Home",
   "analyticsID": "hokies",
+  "assetBasePath": "https://img.cloud.lib.vt.edu/sites/html/hokies",
   "siteNavLinks": [
     {
       "text": "Home",
@@ -56,11 +57,11 @@
   ],
   "aboutCopy": {
     "type": "file",
-    "value": "html/hokies_about.html"
+    "value": "hokies_about.html"
   },
   "termsCopy": {
     "type": "file",
-    "value": "html/hokies_terms.html"
+    "value": "hokies_terms.html"
   },
   "searchPage": {
     "facets": [

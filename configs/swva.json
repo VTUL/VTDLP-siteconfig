@@ -111,43 +111,43 @@
         "title": "Community Development Model",
         "link": "/community-catalysts",
         "type": "file",
-        "value": "community-catalysts.html"
+        "value": "swva_community-catalysts.html"
       },
       {
         "title": "Digital Preservation",
         "link": "/digital-preservation",
         "type": "file",
-        "value": "digital-preservation.html"
+        "value": "swva_digital-preservation.html"
       },
       {
         "title": "Get Involved",
         "link": "/get-involved",
         "type": "file",
-        "value": "get-involved.html"
+        "value": "swva_get-involved.html"
       },
       {
         "title": "Imaging",
         "link": "/imaging",
         "type": "file",
-        "value": "imaging.html"
+        "value": "swva_imaging.html"
       },
       {
         "title": "Metadata",
         "link": "/metadata",
         "type": "file",
-        "value": "metadata.html"
+        "value": "swva_metadata.html"
       },
       {
         "title": "Partners",
         "link": "/partners",
         "type": "file",
-        "value": "partners.html"
+        "value": "swva_partners.html"
       },
       {
         "title": "People",
         "link": "/people",
         "type": "file",
-        "value": "people.html"
+        "value": "swva_people.html"
       }
     ]
   },

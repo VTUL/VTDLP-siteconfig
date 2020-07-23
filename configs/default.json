@@ -4,28 +4,14 @@
   "siteName": "Virginia Tech Digital Library Platform",
   "analyticsID": "example",
   "assetBasePath": "https://img.cloud.lib.vt.edu/sites/html/default",
-  "siteNavLinks": [
-    {
-      "text": "Home",
-      "url": "/"
-    },
-    {
+  "sitePages": {
+    "about": {
       "text": "About",
-      "url": "/about"
-    },
-    {
-      "text": "Permission Page",
-      "url": "/terms"
-    },
-    {
-      "text": "Browse Collections",
-      "url": "/collections"
-    },
-    {
-      "text": "Search Items",
-      "url": "/search"
+      "local_url": "/about",
+      "data_url": "default_about.html",
+      "component": "AboutPage"
     }
-  ],
+  },
   "homePage": {
     "staticImage": {
       "src": "https://img.cloud.lib.vt.edu/sites/images/default/cover_image.jpg",
@@ -73,11 +59,6 @@
       "phone": "(540)231-6170"
     }
   ],
-  "aboutCopy": {
-    "type": "file",
-    "value": "default_about.html"
-  },
-  "termsCopy": {},
   "searchPage": {
     "facets": [
       {

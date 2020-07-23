@@ -4,28 +4,58 @@
   "siteName": "Southwest Virginia Digital Archive",
   "analyticsID": "example",
   "assetBasePath": "https://img.cloud.lib.vt.edu/sites/html/swva",
-  "siteNavLinks": [
-    {
-      "text": "Home",
-      "url": "/"
-    },
-    {
+  "sitePages": {
+    "about": {
       "text": "About",
-      "url": "/about"
-    },
-    {
-      "text": "Permission Page",
-      "url": "/terms"
-    },
-    {
-      "text": "Browse Collections",
-      "url": "/collections"
-    },
-    {
-      "text": "Search Items",
-      "url": "/search"
+      "local_url": "/about",
+      "data_url": "swva_about.html",
+      "component": "AboutPage",
+      "children": {
+        "communityCatalysts": {
+          "text": "Community Catalysts",
+          "local_url": "/community-catalysts",
+          "component": "AdditionalPages",
+          "data_url": "swva_community-catalysts.html"
+        },
+        "digitalPreservation": {
+          "text": "Digital Preservation",
+          "local_url": "/digital-preservation",
+          "component": "AdditionalPages",
+          "data_url": "swva_digital-preservation.html"
+        },
+        "getInvolved": {
+          "text": "Get Involved",
+          "local_url": "/get-involved",
+          "component": "AdditionalPages",
+          "data_url": "swva_get-involved.html"
+        },
+        "imaging": {
+          "text": "Imaging",
+          "local_url": "/imaging",
+          "component": "AdditionalPages",
+          "data_url": "swva_imaging.html"
+        },
+        "metadata": {
+          "text": "Metadata",
+          "local_url": "/metadata",
+          "component": "AdditionalPages",
+          "data_url": "swva_metadata.html"
+        },
+        "partners": {
+          "text": "Partners",
+          "local_url": "/partners",
+          "component": "AdditionalPages",
+          "data_url": "swva_partners.html"
+        },
+        "people": {
+          "text": "People",
+          "local_url": "/people",
+          "component": "AdditionalPages",
+          "data_url": "swva_people.html"
+        }
+      }
     }
-  ],
+  },
   "homePage": {
     "staticImage": {
       "src": "https://img.cloud.lib.vt.edu/sites/images/swva/cover_image.jpg",
@@ -103,55 +133,6 @@
       "phone": "(540)553-2845"
     }
   ],
-  "aboutCopy": {
-    "type": "file",
-    "value": "swva_about.html",
-    "additionalPages": [
-      {
-        "title": "Community Development Model",
-        "link": "/community-catalysts",
-        "type": "file",
-        "value": "swva_community-catalysts.html"
-      },
-      {
-        "title": "Digital Preservation",
-        "link": "/digital-preservation",
-        "type": "file",
-        "value": "swva_digital-preservation.html"
-      },
-      {
-        "title": "Get Involved",
-        "link": "/get-involved",
-        "type": "file",
-        "value": "swva_get-involved.html"
-      },
-      {
-        "title": "Imaging",
-        "link": "/imaging",
-        "type": "file",
-        "value": "swva_imaging.html"
-      },
-      {
-        "title": "Metadata",
-        "link": "/metadata",
-        "type": "file",
-        "value": "swva_metadata.html"
-      },
-      {
-        "title": "Partners",
-        "link": "/partners",
-        "type": "file",
-        "value": "swva_partners.html"
-      },
-      {
-        "title": "People",
-        "link": "/people",
-        "type": "file",
-        "value": "swva_people.html"
-      }
-    ]
-  },
-  "termsCopy": {},
   "searchPage": {
     "facets": [
       {

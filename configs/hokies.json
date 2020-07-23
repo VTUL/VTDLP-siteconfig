@@ -4,28 +4,20 @@
   "siteName": "Hokies@Home",
   "analyticsID": "hokies",
   "assetBasePath": "https://img.cloud.lib.vt.edu/sites/html/hokies",
-  "siteNavLinks": [
-    {
-      "text": "Home",
-      "url": "/"
-    },
-    {
+  "sitePages": {
+    "about": {
       "text": "About",
-      "url": "/about"
+      "local_url": "/about",
+      "data_url": "hokies_about.html",
+      "component": "AboutPage"
     },
-    {
-      "text": "Permission Page",
-      "url": "/terms"
-    },
-    {
-      "text": "Browse Collections",
-      "url": "/collections"
-    },
-    {
-      "text": "Search Items",
-      "url": "/search"
+    "terms": {
+      "text": "Permissions",
+      "local_url": "/permissions",
+      "data_url": "hokies_terms.html",
+      "component": "PermissionsPage"
     }
-  ],
+  },
   "homePage": {
     "staticImage": {
       "src": "https://img.cloud.lib.vt.edu/sites/images/hokies/cover_image.jpg",
@@ -55,14 +47,6 @@
       "phone": "(540) 231-4442"
     }
   ],
-  "aboutCopy": {
-    "type": "file",
-    "value": "hokies_about.html"
-  },
-  "termsCopy": {
-    "type": "file",
-    "value": "hokies_terms.html"
-  },
   "searchPage": {
     "facets": [
       {

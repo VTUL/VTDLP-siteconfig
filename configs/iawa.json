@@ -5,28 +5,23 @@
   "siteColor": "#c52a1d",
   "analyticsID": "UA-4094890-21",
   "assetBasePath": "https://img.cloud.lib.vt.edu/sites/html/iawa",
-  "siteNavLinks": [
-    {
-      "text": "Home",
-      "url": "/"
-    },
-    {
+  "sitePages": {
+    "about": {
       "text": "About",
-      "url": "/about"
+      "local_url": "/about",
+      "data_url": "iawa_about.html",
+      "component": "AboutPage"
     },
-    {
-      "text": "Permission Page",
-      "url": "/terms"
-    },
-    {
-      "text": "Browse Collections",
-      "url": "/collections"
-    },
-    {
-      "text": "Search Items",
-      "url": "/search"
+    "terms": {
+      "text": "Permissions",
+      "local_url": "/permissions",
+      "data_url": "iawa_terms.html",
+      "component": "PermissionsPage",
+      "assets": {
+        "download": "https://digitalsc.lib.vt.edu/files/thumbnails/spec_forms/PubPermission.doc"
+      }
     }
-  ],
+  },
   "homePage": {
     "staticImage": {
       "src": "https://img.cloud.lib.vt.edu/sites/images/iawa/cover_image.jpg",
@@ -170,15 +165,6 @@
       "phone": "(540)231-5512"
     }
   ],
-  "aboutCopy": {
-    "type": "file",
-    "value": "iawa_about.html"
-  },
-  "termsCopy": {
-    "type": "file",
-    "value": "iawa_terms.html",
-    "download": "https://digitalsc.lib.vt.edu/files/thumbnails/spec_forms/PubPermission.doc"
-  },
   "searchPage": {
     "facets": [
       {

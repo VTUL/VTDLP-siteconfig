@@ -335,5 +335,32 @@
         ]
       }
     ]
+  },
+  "browseCollections": {
+    "filter": {
+      "field": "subject",
+      "values": ["All",
+                 "Architectural drawing -- 20th century",
+                 "Architecture",
+                 "History of Women in Architecture",
+                 "International Archive of Women in Architecture (IAWA)",
+                 "Women architects",
+                 "Women-owned architectural firms"
+      ]
+    },
+    "sort": [
+      {
+        "field": "title",
+        "direction": "asc"
+      },
+      {
+        "field": "title",
+        "direction": "desc"
+      },
+      {
+        "field": "start_date",
+        "direction": "desc"
+      }
+    ]
   }
 }

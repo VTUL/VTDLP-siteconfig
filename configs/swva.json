@@ -184,5 +184,25 @@
                   ]
       }
     ]
+  },
+  "browseCollections": {
+    "filter": {
+      "field": "subject",
+      "values": ["All"]
+    },
+    "sort": [
+      {
+        "field": "title",
+        "direction": "asc"
+      },
+      {
+        "field": "title",
+        "direction": "desc"
+      },
+      {
+        "field": "start_date",
+        "direction": "desc"
+      }
+    ]
   }
 }

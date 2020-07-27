@@ -64,22 +64,39 @@
       {
         "label": "Category",
         "name": "category",
-        "multiValued": false,
         "values": ["collection", "archive"]
       },
       {
         "label": "Language",
         "name": "language",
-        "multiValued": false,
         "values": ["en", "fr"]
       },
       {
         "label": "Type",
         "name": "resource_type",
-        "multiValued": true,
         "values": ["image",
                    "Posters"
         ]
+      }
+    ]
+  },
+  "browseCollections": {
+    "filter": {
+      "field": "subject",
+      "values": ["All"]
+    },
+    "sort": [
+      {
+        "field": "title",
+        "direction": "asc"
+      },
+      {
+        "field": "title",
+        "direction": "desc"
+      },
+      {
+        "field": "start_date",
+        "direction": "desc"
       }
     ]
   }

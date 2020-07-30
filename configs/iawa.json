@@ -5,6 +5,18 @@
   "siteColor": "#c52a1d",
   "analyticsID": "UA-4094890-21",
   "assetBasePath": "https://img.cloud.lib.vt.edu/sites/html/iawa",
+  "miradorOptions": {
+    "annotationTooltipVisible": false,
+    "viewTypeControlVisible": false,
+    "windowObjects": {
+      "displayLayout": false,
+      "bottomPanel": false,
+      "bottomPanelAvailable": false,
+      "bottomPanelVisible": false,
+      "sidePanel": false,
+      "annotationLayer": false
+    }
+  },
   "sitePages": {
     "about": {
       "text": "About",

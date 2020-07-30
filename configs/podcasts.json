@@ -3,28 +3,23 @@
   "siteTitle": "Podcasts from Virginia Tech Publishing",
   "siteName": "Podcasts from Virginia Tech Publishing",
   "analyticsID": "podcasts",
-  "siteNavLinks": [
-    {
-      "text": "Home",
-      "url": "/"
-    },
-    {
+  "sitePages": {
+    "about": {
       "text": "About",
-      "url": "/about"
+      "local_url": "/about",
+      "data_url": "html/default_about.html",
+      "component": "AboutPage"
     },
-    {
-      "text": "Permission Page",
-      "url": "/terms"
-    },
-    {
-      "text": "Browse Collections",
-      "url": "/collections"
-    },
-    {
-      "text": "Search Items",
-      "url": "/search"
+    "terms": {
+      "text": "Permissions",
+      "local_url": "/permissions",
+      "data_url": "iawa_terms.html",
+      "component": "PermissionsPage",
+      "assets": {
+        "download": "https://digitalsc.lib.vt.edu/files/thumbnails/spec_forms/PubPermission.doc"
+      }
     }
-  ],
+  },
   "homePage": {
     "staticImage": {
       "src": "https://img.cloud.lib.vt.edu/sites/images/podcasts/cover_image.png",
@@ -55,11 +50,6 @@
       "phone": "540-231-6737"
     }
   ],
-  "aboutCopy": {
-    "type": "file",
-    "value": "html/default_about.html"
-  },
-  "termsCopy": {},
   "searchPage": {
     "facets": [
       {

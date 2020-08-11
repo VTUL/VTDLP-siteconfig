@@ -7,13 +7,13 @@
     "about": {
       "text": "About",
       "local_url": "/about",
-      "data_url": "html/default_about.html",
+      "data_url": "html/default/about.html",
       "component": "AboutPage"
     },
     "terms": {
       "text": "Permissions",
       "local_url": "/permissions",
-      "data_url": "iawa_terms.html",
+      "data_url": "html/iawa/terms.html",
       "component": "PermissionsPage",
       "assets": {
         "download": "https://digitalsc.lib.vt.edu/files/thumbnails/spec_forms/PubPermission.doc"

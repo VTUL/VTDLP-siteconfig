@@ -8,50 +8,50 @@
     "about": {
       "text": "About",
       "local_url": "/about",
-      "data_url": "swva_about.html",
+      "data_url": "about.html",
       "component": "AboutPage",
       "children": {
         "communityCatalysts": {
           "text": "Community Catalysts",
           "local_url": "/community-catalysts",
           "component": "AdditionalPages",
-          "data_url": "swva_community-catalysts.html"
+          "data_url": "community-catalysts.html"
         },
         "digitalPreservation": {
           "text": "Digital Preservation",
           "local_url": "/digital-preservation",
           "component": "AdditionalPages",
-          "data_url": "swva_digital-preservation.html"
+          "data_url": "digital-preservation.html"
         },
         "getInvolved": {
           "text": "Get Involved",
           "local_url": "/get-involved",
           "component": "AdditionalPages",
-          "data_url": "swva_get-involved.html"
+          "data_url": "get-involved.html"
         },
         "imaging": {
           "text": "Imaging",
           "local_url": "/imaging",
           "component": "AdditionalPages",
-          "data_url": "swva_imaging.html"
+          "data_url": "imaging.html"
         },
         "metadata": {
           "text": "Metadata",
           "local_url": "/metadata",
           "component": "AdditionalPages",
-          "data_url": "swva_metadata.html"
+          "data_url": "metadata.html"
         },
         "partners": {
           "text": "Partners",
           "local_url": "/partners",
           "component": "AdditionalPages",
-          "data_url": "swva_partners.html"
+          "data_url": "partners.html"
         },
         "people": {
           "text": "People",
           "local_url": "/people",
           "component": "AdditionalPages",
-          "data_url": "swva_people.html"
+          "data_url": "people.html"
         }
       }
     }

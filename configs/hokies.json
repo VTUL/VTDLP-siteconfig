@@ -8,13 +8,13 @@
     "about": {
       "text": "About",
       "local_url": "/about",
-      "data_url": "hokies_about.html",
+      "data_url": "about.html",
       "component": "AboutPage"
     },
     "terms": {
       "text": "Permissions",
       "local_url": "/permissions",
-      "data_url": "hokies_terms.html",
+      "data_url": "terms.html",
       "component": "PermissionsPage"
     }
   },

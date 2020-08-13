@@ -144,8 +144,9 @@
         "label": "Collection",
         "name": "collection",
         "values": ["Barter Theatre Archives",
-                   "Taubman Museum of Art"
-                  ]
+                   "Taubman Museum of Art",
+                   "Leonard J. Currie Slides"
+        ]
       },
       {
         "label": "Medium",

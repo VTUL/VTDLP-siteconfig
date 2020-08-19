@@ -362,5 +362,115 @@
         "direction": "desc"
       }
     ]
+  },
+  "displayedAttributes": {
+    "collection": [
+      {
+        "field": "size",
+        "label": "Size"
+      },
+      {
+        "field": "creator",
+        "label": "Creator"
+      },
+      {
+        "field": "rights_statement",
+        "label": "Rights"
+      },
+      {
+        "field": "date",
+        "label": "Date"
+      },
+      {
+        "field": "subject",
+        "label": "Subject"
+      },
+      {
+        "field": "language",
+        "label": "Language"
+      },
+      {
+        "field": "identifier",
+        "label": "Identifier"
+      },
+      {
+        "field": "bibliographic_citation",
+        "label": "Bibliographic citation"
+      },
+      {
+        "field": "rights_holder",
+        "label": "Rights holder"
+      },
+      {
+        "field": "related_url",
+        "label": "Related URL"
+      }
+    ],
+    "archive": [
+      {
+        "field": "identifier",
+        "label": "Identifier"
+      },
+      {
+        "field": "belongs_to",
+        "label": "Belongs to"
+      },
+      {
+        "field": "bibliographic_citation",
+        "label": "Bibliographic citation"
+      },
+      {
+        "field": "creator",
+        "label": "Creator"
+      },
+      {
+        "field": "custom_key",
+        "label": "Permanent Link"
+      },
+      {
+        "field": "format",
+        "label": "Format"
+      },
+      {
+        "field": "language",
+        "label": "Language"
+      },
+      {
+        "field": "location",
+        "label": "Location"
+      },
+      {
+        "field": "medium",
+        "label": "Medium"
+      },
+      {
+        "field": "resource_type",
+        "label": "Type"
+      },
+      {
+        "field": "related_url",
+        "label": "Related URL"
+      },
+      {
+        "field": "rights_holder",
+        "label": "Rights holder"
+      },
+      {
+        "field": "rights_statement",
+        "label": "Rights"
+      },
+      {
+        "field": "source",
+        "label": "Source"
+      },
+      {
+        "field": "start_date",
+        "label": "Date"
+      },
+      {
+        "field": "tags",
+        "label": "Tags"
+      }
+    ]
   }
 }

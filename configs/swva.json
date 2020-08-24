@@ -259,6 +259,10 @@
     ],
     "archive": [
       {
+        "field": "description",
+        "label": "Description"
+      },
+      {
         "field": "identifier",
         "label": "Identifier"
       },

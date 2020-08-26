@@ -60,6 +60,11 @@
         "name": "language",
         "multiValued": false,
         "values": ["en", "fr"]
+      },
+      {
+        "label": "Type",
+        "name": "resource_type",
+        "values": ["Image", "Video"]
       }
     ]
   },

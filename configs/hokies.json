@@ -60,14 +60,6 @@
         "name": "language",
         "multiValued": false,
         "values": ["en", "fr"]
-      },
-      {
-        "label": "Type",
-        "name": "resource_type",
-        "multiValued": true,
-        "values": ["image",
-                   "Posters"
-        ]
       }
     ]
   },
